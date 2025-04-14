@@ -9,10 +9,10 @@
 - Validar as habilidades na elaboração de documentações e histórias de usuários detalhadas.
 <br>
 
-## **Etapa 1:** Ánalise de Jornada Atual (AS IS)
+## **Situação 1:** Ánalise de Jornada Atual (AS IS)
 
 
-### **Elaboração do mapa de jornada atual**
+### **Mapa de jornada atual**
 
 
 ![Diagrama em branco (2)](https://github.com/user-attachments/assets/504e4672-2808-4707-b4a0-cc68c565c36a)
@@ -40,7 +40,7 @@
 <br>
 <br>
 
-## **Etapa 2:** Definição de Melhorias e Proposição de Soluções
+## **Situação 2:** Definição de Melhorias e Proposição de Soluções
 
 ### **Soluções de melhoria**
 
@@ -81,7 +81,7 @@
 <br>
 
 
-## **Etapa 3:** Documentação - Histórias de Usuário
+## **Situação 3:** Documentação - Histórias de Usuário
 <br>
 
 
