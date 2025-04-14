@@ -12,16 +12,15 @@
 ## **Etapa 1:** Ánalise de Jornada Atual (AS IS)
 
 
-### **Tarefa 1:**
-> Elaboração do mapa de jornada atual
+### **Elaboração do mapa de jornada atual**
+
 
 ![Diagrama em branco (2)](https://github.com/user-attachments/assets/504e4672-2808-4707-b4a0-cc68c565c36a)
 
 <br>
 
 
-### **Tarefa 2:**
-> Listar pelo menos 3 oportunidades claras de melhoria identificadas na Jornada Atual
+### **oportunidades de melhoria identificadas na Jornada Atual**
 
  1. Sistemas desconectados sem integração
  2. Ausência de busca centralizada por especialidade, médico ou unidade
@@ -31,9 +30,8 @@
 <br>
 
 
-### **Tarefa 3:**
+### **Diagnóstico**
 
-> Elaborar um breve diagnóstico, descrevendo os problemas encontrados e porque esses pontos precisam de atenção urgente na empresa.
 
 | Diagnóstico do Processo de Agendamento |
 |----------------------------------------|
@@ -44,9 +42,7 @@
 
 ## **Etapa 2:** Definição de Melhorias e Proposição de Soluções
 
-### **Tarefa 1:**
-
-> Propor pelo menos 3 soluções concretas para resolver ou minimizar os problemas identificados no processo de agendamento.
+### **Soluções de melhoria**
 
  1. Sistema Único de Gerenciamento de Agenda
  2. API de Integração de Sistemas Agenda x Cadastro
@@ -55,9 +51,8 @@
  5. Automatização e Integração das Ferramentas de Atendimento (Chatbots)
 <br>
 
-### **Tarefa 2:**
+### **Priorização do Backlog**
 
-> Backlog priorizado com pelo menos 5 tarefas
 
 | **Tarefa** | **Atividades** | **Justificativa de Prioridades** | **Entrega de Valor** |
 |-----------|----------------|----------------------------------|----------------------|
@@ -72,9 +67,9 @@
 <br>
 
 
-### **Tarefa 3:**
+### **Requisitos técnicos/funcionais iniciais**
 
-> Requisitos técnicos/funcionais iniciais
+
 
 | **Categoria** | **Requisitos Técnicos e Funcionais** |
 |--------------|----------------------------------------|
@@ -87,12 +82,11 @@
 
 
 ## **Etapa 3:** Documentação - Histórias de Usuário
-> Documentar as melhorias propostas de forma clara, objetiva e alinhada às necessidades dos usuários internos e externos.
 <br>
 
-### **Tarefa 1:**
 
-> Histórias de usuário completas com critérios de aceite claros e requisitos técnicos/funcionais
+### **Histórias de usuário | Critérios de aceite | Requisitos Técnicos e Funcionais**
+<br>
 
 | **Solução** | **História de Usuário** | **Critérios de Aceite** | **Requisitos Técnicos/Funcionais** |
 |------------|--------------------------|--------------------------|-------------------------------------|
@@ -101,5 +95,12 @@
 | **3. Centralização da Gestão Clínica em uma Única Base** | Como gestor de operações, quero centralizar os dados de todas as clínicas em um único sistema, para facilitar a consulta e atualização das informações, garantindo que os dados estejam sempre corretos e disponíveis em tempo real. | - Informações consolidadas em dashboard central.<br>- Atualização dos dados em tempo real.<br>- Acesso e edição dinâmico.<br>- Integridade dos dados transferidos. | - Banco de dados centralizado.<br>- ETL para migração e sincronização.<br>- Integração via pipelines (Kafka, AWS Kinesis). |
 | **4. Segmentação da Agenda por Especialidade, Médico e Clínica** | Como atendente, quero ter uma agenda segmentada por especialidade, médico e clínica, para localizar rapidamente horários disponíveis e oferecer um atendimento mais assertivo e rápido aos pacientes. | - Filtros dinâmicos na tela de consultas.<br>- Buscas rápidas e precisas.<br>- Resultados claros e organizados.<br>- Melhora no tempo de atendimento. | - UI/UX otimizada. |
 | **5. Automatização e Integração das Ferramentas de Atendimento (Chatbots)** | Como atendente, quero contar com um chatbot integrado ao sistema de agendamento, para que ele possa responder dúvidas frequentes e direcionar agendamentos automaticamente, reduzindo o volume de atendimentos manuais e permitindo que eu foque nos casos mais complexos. | - O chatbot responde perguntas frequentes de forma automatizada e assertiva.<br>- Integração com sistema de agenda e cadastro.<br>- O chatbot inicia e finaliza processos simples de agendamento.<br>- Os agendamentos realizados pelo chatbot são refletidos no sistema único de agenda.<br>- Casos não resolvidos são encaminhados para atendimento humano via notificação em tempo real. | - Plataforma de chatbot (Dialogflow, ManyChat).<br>- Fluxos customizáveis.<br>- Webhooks para integração em tempo real. |
+
+## **Execução Ágil**
+<br>
+
+### **Planejamento da execução Ágil**
+
+
 
 
