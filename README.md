@@ -103,7 +103,7 @@
 
 ### **Planejamento da execução Ágil**
 
-Como Agilista do projeto conduzirei o projeto de forma colaborativa e transparente, definindo os principais KPI´s de forma clara e tangível, definindo os papeis e responsaveis por cada parte do projeto. Realizando as cerimonias ágil no modelo de sprints quinzenais, planning ao inicio de cada sprint (2 a 4h), Review ao final de cada sprint com apresentação das soluções desenvolvidas e coleta de feedbacks (até 2h), Retro no dia após a review (até 1h), permitindo rapida adaptação e garantindo que cada etapa seja entregue com qualidade, visibilidade e dentro dos prazos estimados.  
+Como Agilista do projeto conduzirei de forma colaborativa e transparente, definindo os principais KPI´s de forma clara e tangível, definindo os papeis e responsaveis por cada parte do projeto. Realizando as cerimonias ágil no modelo de sprints quinzenais, planning ao inicio de cada sprint (2 a 4h), Review ao final de cada sprint com apresentação das soluções desenvolvidas e coleta de feedbacks (até 2h), Retro no dia após a review (até 1h), permitindo rapida adaptação e garantindo que cada etapa seja entregue com qualidade, visibilidade e dentro dos prazos estimados.  
 
 
 
