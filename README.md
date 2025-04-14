@@ -15,12 +15,13 @@
 ### **Mapa de jornada atual**
 
 
-![Diagrama em branco (2)](https://github.com/user-attachments/assets/504e4672-2808-4707-b4a0-cc68c565c36a)
+![Estudo de Caso](https://github.com/user-attachments/assets/fecee637-d4ba-4435-a1d1-1916a60bee80)
+
 
 <br>
 
 
-### **oportunidades de melhoria identificadas na Jornada Atual**
+### **Oportunidades de melhoria identificadas na Jornada Atual**
 
  1. Sistemas desconectados sem integração
  2. Ausência de busca centralizada por especialidade, médico ou unidade
