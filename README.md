@@ -12,7 +12,7 @@
 ## **Situação 1:** Ánalise de Jornada Atual (AS IS)
 
 
-### **Mapa de jornada atual**
+### 🧭**Mapa de jornada atual**
 
 
 ![Estudo de Caso](https://github.com/user-attachments/assets/fecee637-d4ba-4435-a1d1-1916a60bee80)
@@ -31,7 +31,7 @@
 <br>
 
 
-### **Diagnóstico**
+## 📊**Diagnóstico**
 
 
 | Diagnóstico do Processo de Agendamento |
@@ -43,7 +43,7 @@
 
 ## **Situação 2:** Definição de Melhorias e Proposição de Soluções
 
-### **Soluções de melhoria**
+### 💡**Soluções de melhoria**
 
  1. Sistema Único de Gerenciamento de Agenda
  2. API de Integração de Sistemas Agenda x Cadastro
@@ -52,7 +52,7 @@
  5. Automatização e Integração das Ferramentas de Atendimento (Chatbots)
 <br>
 
-### **Priorização do Backlog**
+### 📋**Priorização do Backlog**
 
 
 | **Tarefa** | **Atividades** | **Justificativa de Prioridades** | **Entrega de Valor** |
@@ -68,7 +68,7 @@
 <br>
 
 
-### **Requisitos técnicos/funcionais iniciais**
+### ⚙️**Requisitos técnicos/funcionais iniciais**
 
 
 
@@ -86,7 +86,7 @@
 <br>
 
 
-### **Histórias de usuário | Critérios de aceite | Requisitos Técnicos e Funcionais**
+### 🗣️**Histórias de usuário | Critérios de aceite | Requisitos Técnicos e Funcionais**
 <br>
 
 | **Solução** | **História de Usuário** | **Critérios de Aceite** | **Requisitos Técnicos/Funcionais** |
@@ -99,10 +99,10 @@
 <br>
 <br>
 
-## **Execução Ágil**
+## 📆**Execução Ágil**
 <br>
 
-### **Planejamento da execução Ágil**
+### **Plano de Execução Ágil**
 
 Como Agilista do projeto conduzirei de forma colaborativa e transparente, definindo os principais KPI´s de forma clara e tangível, definindo os papeis e responsaveis por cada parte do projeto. Realizando as cerimonias ágil no modelo de sprints quinzenais, planning ao inicio de cada sprint (2 a 4h), Review ao final de cada sprint com apresentação das soluções desenvolvidas e coleta de feedbacks (até 2h), Retro no dia após a review (até 1h), permitindo rapida adaptação e garantindo que cada etapa seja entregue com qualidade, visibilidade e dentro dos prazos estimados.  
 
