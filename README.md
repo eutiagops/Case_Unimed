@@ -21,7 +21,7 @@
 <br>
 
 
-### **Oportunidades de melhoria identificadas na Jornada Atual**
+### 🔍**Oportunidades de melhoria identificadas na Jornada Atual**
 
  1. Sistemas desconectados sem integração
  2. Ausência de busca centralizada por especialidade, médico ou unidade
